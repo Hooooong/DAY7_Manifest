@@ -1,5 +1,4 @@
-# AndroidManifest.xml
----------------------------------------------------
+# AndroidManifest.
 
 ### AndroidManifest.xml 란?
 
