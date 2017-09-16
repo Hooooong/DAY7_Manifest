@@ -55,8 +55,8 @@
 
   2. uses-sdk
 
-      - android:minSdkVersion="버전코드" : 안드로이드 최소 버전(20) 설정
-      - android:targetSdkVersion="버전코드" : 안드로이드 기본 버전(23) 설정
+      - android:minSdkVersion="버전코드" : 안드로이드 최소 버전(버전코드) 설정
+      - android:targetSdkVersion="버전코드" : 안드로이드 기본 버전(버전코드) 설정
 
   3. uses-permission
 
